@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asif-amar-580ba8177/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Amar LinkedIn" height="30" width="40" /></a>
- <a href="mailto:Asifamar1998@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/email-icon.svg" alt="Asif Amar Email" height="30" width="40" /></a>
+<a href="mailto:Asifamar1998@gmail.com">📩 Asifamar1998@gmail.com</a>
+
   <!-- Add your personal website link here -->
 </p>
 
