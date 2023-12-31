@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at **J.P Morgan**, contributing to the EMEA SEP Program and developing cutting-edge ML pipelines.
 - 🎓 I’m a **B.Sc. in Computer Science & B.A. in Entrepreneurship** graduate from Reichman University with honors (GPA 95).
-- 👨‍💻 All of my projects are available at [Personal Website]([#](https://asifwebsite.github.io/portfolio/))
+- 👨‍💻 All of my projects are available at [Personal Website](https://asifwebsite.github.io/portfolio/)
 - 💬 Ask me about **Full Stack Development, Machine Learning, and Cloud Computing**.
 - 📫 How to reach me: **Asifamar1998@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asif-amar-580ba8177/).
-- - <a href="https://www.linkedin.com/in/asif-amar-580ba8177/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Amar LinkedIn" height="20" width="20" /></a> Connect with me on LinkedIn.
+- <a href="https://www.linkedin.com/in/asif-amar-580ba8177/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Amar LinkedIn" height="20" width="20" /></a> Connect with me on [LinkedIn](https://www.linkedin.com/in/asif-amar-580ba8177/).
 
 
 
