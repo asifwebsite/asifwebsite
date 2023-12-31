@@ -9,6 +9,8 @@
 - 💬 Ask me about **Full Stack Development, Machine Learning, and Cloud Computing**.
 - 📫 How to reach me: **Asifamar1998@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asif-amar-580ba8177/).
+- - <a href="https://www.linkedin.com/in/asif-amar-580ba8177/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Amar LinkedIn" height="20" width="20" /></a> Connect with me on LinkedIn.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
