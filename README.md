@@ -10,29 +10,20 @@
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working at **J.P Morgan**, contributing to the EMEA SEP Program and developing cutting-edge ML pipelines.
-- 🌱 I’m a **B.Sc. in Computer Science & B.A. in Entrepreneurship** graduate from Reichman University with honors (GPA 95).
-- 👨‍💻 All of my projects are available at [Personal Website](#) <!-- Add your personal website URL here -->
-- 📝 I regularly write articles on [Personal Blog](#) <!-- Add your blog URL here -->
-- 💬 Ask me about **Machine Learning, Cloud Computing, and Full Stack Development**.
+- 🎓 I’m a **B.Sc. in Computer Science & B.A. in Entrepreneurship** graduate from Reichman University with honors (GPA 95).
+- 👨‍💻 All of my projects are available at [Personal Website](#) [<!-- Add your personal website URL here -->](https://asifwebsite.github.io/portfolio/)
+- 💬 Ask me about **Full Stack Development, Machine Learning, and Cloud Computing**.
 - 📫 How to reach me: **Asifamar1998@gmail.com**
-- 📄 Know about my experiences [Resume](#) <!-- Add a link to your resume here -->
-- ⚡ Fun fact: I was a Team Leader in the prestigious 8200 unit of the IDF.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add or remove languages and tools as per your profile -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <!-- Add other icons as per your skills -->
-</p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Experience:</h3>
 <p align="left">
+  
 - 🛠️ **Software Engineer** at J.P. Morgan (2023-Present)
   - Working on ML pipelines for anomaly detection, prediction, and classification problems.
   - Designing cloud-based applications utilizing AWS services.
-  - Achieved first place in the EMEA SEP Hackathon.
   - Certified AWS Cloud Practitioner.
 
 - 🌐 **Full Stack Developer Intern** at Robbi (2022)
@@ -42,19 +33,8 @@
 
 <h3 align="left">Education:</h3>
 <p align="left">
+  
 - 🎓 **B.Sc. in Computer Science; B.A. in Entrepreneurship**
   - Reichman University (2020 – 2023)
   - Graduated with honors, GPA 95.
-  - Dean's List recipient for the 1st and 2nd year.
-  - Completed Computer Science Honors Program.
-  - Managed a Volunteering Program with 150+ participants.
-</p>
-
-<h3 align="left">Military Service:</h3>
-<p align="left">
-- 🪖 **Team Leader of Techno-Intelligence Operators**
-  - Unit 8200 (2016-2019)
-  - Operated advanced technology for intelligence gathering and data analysis.
-  - Completed the 8200 Team Commanders’ course.
-  - Commanded a team of 12 soldiers.
 </p>
